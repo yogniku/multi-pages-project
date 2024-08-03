@@ -1,0 +1,12 @@
+/* src/components/DetailPage.css */
+.detail-page {
+    padding: 20px;
+}
+
+.detail-page h1 {
+    font-size: 2em;
+}
+
+.detail-page p {
+    font-size: 1.2em;
+}
